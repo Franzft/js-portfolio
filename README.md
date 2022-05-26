@@ -1,2 +1,0 @@
-# ss-portfolio
-js-portfolio
